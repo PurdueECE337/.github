@@ -2,7 +2,7 @@
 
 Hosts the Lab Manuals, Course Development Notes, and Back-end code for ECE 337: ASIC Design Laboratory
 
-## Manuals
+## Labs-Assignments
 
 Repository with the .tex, .pdf, and changelog for the ECE 337 Lab Manuals. These are the canon versions to pull from and updates should go here before distribution.
 
